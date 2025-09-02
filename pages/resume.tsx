@@ -38,7 +38,7 @@ const Resume: NextPage = () => {
           <h5 className="my-2 text-2xl font-bold ">Experience</h5>
           <div>
             <h5 className="my-1 text-xl font-bold">Attache`</h5>
-            <p className="font-semibold">Netpap Global Limited (2022 - present)</p>
+            <p className="font-semibold">Netpap Global Limited (2022 - August 2022)</p>
             <h5 className="my-1 text-xl font-bold">Data Entry</h5>
             <p className="font-semibold">
               Africa Vocation Education Researchers and Consultants [AVERC] (Jan 2020 - March 2020)
