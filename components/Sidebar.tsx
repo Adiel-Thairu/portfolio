@@ -18,7 +18,7 @@ const Sidebar: React.FC = () => {
   return (
     <div>
       <Image
-        src="/images/myPic.jpeg"
+        src="/images/myPic.jpg"
         className="mx-auto rounded-full"
         width="128px"
         height="128px"
