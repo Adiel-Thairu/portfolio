@@ -18,9 +18,8 @@ const index: NextPage = () => {
         <title>Web | Software Consultant| portfolio</title>
       </Head>
       <h5 className="my-3 font-medium">
-        A Full stack web and Software Developer, seeking adventure and an
-        opportunity to make impact. A Fast learner and creative developer who
-        loves what he does and is easy to work with. 
+        A proficient IT professional with strong problem-solving abilities 
+        and a team-oriented approach, excelling in collaborative environments. 
       </h5>
       <motion.div
         variants={stagger}
