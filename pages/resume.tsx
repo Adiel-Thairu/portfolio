@@ -37,6 +37,8 @@ const Resume: NextPage = () => {
         <motion.div variants={fadeInUp} initial="initial" animate="animate">
           <h5 className="my-2 text-2xl font-bold ">Experience</h5>
           <div>
+            <h5 className="my-1 text-xl font-bold">Software Consultant</h5>
+            <p className="font-semibold">Novacom Systems Limited (2022 - Present)</p>
             <h5 className="my-1 text-xl font-bold">Attache`</h5>
             <p className="font-semibold">Netpap Global Limited (2022 - August 2022)</p>
             <h5 className="my-1 text-xl font-bold">Data Entry</h5>
