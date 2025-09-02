@@ -15,7 +15,7 @@ const Resume: NextPage = () => {
       exit="exit"
     >
       <Head>
-        <title>Web | Software Developer| portfolio</title>
+        <title> | Software Consultant| portfolio</title>
       </Head>
       {/* Education and Experience */}
       <div className="grid gap-6 md:grid-cols-2">
